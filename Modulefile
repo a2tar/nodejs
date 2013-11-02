@@ -9,3 +9,4 @@ project_page 'https://github.com/a2tar/puppet_nodejs.git'
 
 ## Add dependencies, if any:
 # dependency 'username/name', '>= 1.2.0'
+dependency 'puppetlabs/apt', '1.2.0'

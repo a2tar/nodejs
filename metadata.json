@@ -4,7 +4,12 @@
   "summary": "Puppet module for install nodejs on ubuntu",
   "author": "a2tar",
   "description": "Install last stable nodejs on ubuntu using ppa:chris-lea/node.js",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "name": "puppetlabs/apt",
+      "version_requirement": "1.2.0"
+    }
+  ],
   "types": [],
   "checksums": {},
   "source": "https://github.com/a2tar/puppet_nodejs.git",

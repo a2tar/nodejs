@@ -11,5 +11,5 @@
 # Sample Usage:
 #
 class nodejs {
-
+	include nodejs::install
 }
