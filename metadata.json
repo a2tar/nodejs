@@ -1,13 +1,13 @@
 {
-  "name": "hash-nodejs",
+  "name": "a2tar-nodejs",
   "version": "0.1.0",
-  "summary": "",
-  "author": "",
-  "description": "",
+  "summary": "Puppet module for install nodejs on ubuntu",
+  "author": "a2tar",
+  "description": "Install last stable nodejs on ubuntu using ppa:chris-lea/node.js",
   "dependencies": [],
   "types": [],
   "checksums": {},
-  "source": "",
-  "project_page": "",
+  "source": "https://github.com/a2tar/puppet_nodejs.git",
+  "project_page": "https://github.com/a2tar/puppet_nodejs.git",
   "license": ""
 }
